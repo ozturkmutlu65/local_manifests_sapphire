@@ -3,9 +3,8 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="sapphire-sm6225" fetch="https://github.com/sapphire-sm6225" clone-depth="1" />
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
-    <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" clone-depth="1" />
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
     <remote name="ozturkmutlu65" fetch="https://github.com/ozturkmutlu65" clone-depth="1" />
 
     <!-- Removals -->
@@ -13,7 +12,7 @@
     <!-- Repos -->
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="ozturkmutlu65" revision="lineage-22.2" />
-    <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="15" />
+    <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="ozturkmutlu65" revision="15" />
     <project path="device/xiaomi/sapphire" name="android_device_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-22.2" />
 
     <!-- Device - Common -->
@@ -28,7 +27,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="bka" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.0" />
     <project path="hardware/dolby" name="hardware_dolby" remote="ozturkmutlu65" revision="bka" />
 
 />

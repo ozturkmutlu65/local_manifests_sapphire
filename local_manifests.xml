@@ -4,7 +4,6 @@
 
     <!-- Remotes -->
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
     <remote name="ozturkmutlu65" fetch="https://github.com/ozturkmutlu65" clone-depth="1" />
 
     <!-- Removals -->
@@ -27,7 +26,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.0" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="ozturkmutlu65" revision="lineage-23.0" />
     <project path="hardware/dolby" name="hardware_dolby" remote="ozturkmutlu65" revision="bka" />
 
 />

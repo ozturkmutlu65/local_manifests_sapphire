@@ -19,7 +19,7 @@
     <!-- Kernel -->
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-22.2" />
+    <project path="vendor/xiaomi/sapphire" name="android_vendor_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-22.2" />
     <project path="vendor" name="keys-for-lineage20" remote="saroj-nokia" revision="main" />
     
 

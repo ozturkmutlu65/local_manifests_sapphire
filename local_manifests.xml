@@ -6,15 +6,15 @@
     <remote name="ozturkmutlu65" fetch="https://github.com/ozturkmutlu65" clone-depth="1" />
 
     <!-- Device -->
-    <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="ozturkmutlu65" revision="lineage-22.2" />
+    <project path="device/xiaomi/sapphire-kernel" name="android_device_xiaomi_sapphire-kernel" remote="ozturkmutlu65" revision="bq1" />
     <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="ozturkmutlu65" revision="16" />
-    <project path="device/xiaomi/sapphire" name="android_device_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-22.2" />
+    <project path="device/xiaomi/sapphire" name="android_device_xiaomi_sapphire-new" remote="ozturkmutlu65" revision="bq1" />
 
     <!-- Google Camera -->
     <project path="vendor/xiaomi/GoogleCamera" name="vendor_xiaomi_GoogleCamera" remote="ozturkmutlu65" revision="16" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/sapphire" name="android_vendor_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-22.2" />
+    <project path="vendor/xiaomi/sapphire" name="android_vendor_xiaomi_sapphire-new" remote="ozturkmutlu65" revision="bq1" />
     <project path="vendor" name="keys-for-lineage20" remote="ozturkmutlu65" revision="main" />
     
     <!-- Hardware -->

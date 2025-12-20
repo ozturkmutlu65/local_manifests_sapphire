@@ -8,7 +8,7 @@
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="ozturkmutlu65" revision="lineage-22.2" />
     <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="ozturkmutlu65" revision="16" />
-    <project path="device/xiaomi/sapphire" name="android_device_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-22.2" />
+    <project path="device/xiaomi/sapphire" name="android_device_xiaomi_sapphire" remote="ozturkmutlu65" revision="bq1" />
 
     <!-- Google Camera -->
     <project path="vendor/xiaomi/GoogleCamera" name="vendor_xiaomi_GoogleCamera" remote="ozturkmutlu65" revision="16" />

@@ -4,6 +4,7 @@
 
     <!-- Remotes -->
     <remote name="ozturkmutlu65" fetch="https://github.com/ozturkmutlu65" clone-depth="1" />
+    <remote name="Pong-Development" fetch="https://github.com/Pong-Development" clone-depth="1" />
 
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="ozturkmutlu65" revision="bq1" />
@@ -19,7 +20,7 @@
     
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="ozturkmutlu65" revision="lineage-23.0" />
-    <project path="hardware/dolby" name="hardware_dolby" remote="ozturkmutlu65" revision="bka" />
+    <project path="hardware/dolby" name="hardware_dolby" remote="Pong-Development" revision="16" />
 
 />
 

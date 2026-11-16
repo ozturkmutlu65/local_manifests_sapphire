@@ -6,6 +6,7 @@
     <remote name="ozturkmutlu65" fetch="https://github.com/ozturkmutlu65" clone-depth="1" />
     <remote name="sapphire-sm6225" fetch="https://github.com/sapphire-sm6225" clone-depth="1" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
+    <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
 
     <!-- Repos -->
     <!-- Device -->

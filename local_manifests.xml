@@ -19,7 +19,7 @@
     <project path="vendor/xiaomi/miuicamera-sapphire" name="vendor_xiaomi_miuicamera-sapphire" remote="ozturkmutlu65" revision="lineage-24.0" />
 
     <!-- FastCharge -->
-    <project path="packages/apps/FastCharge" name="packages/apps/FastCharge" remote="ozturkmutlu65" revision="16-qpr2" />
+    <project path="packages/apps/FastCharge" name="packages_apps_FastCharge" remote="ozturkmutlu65" revision="16-qpr2" />
     
     <!-- Vendor -->
     <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="ozturkmutlu65" revision="lineage-24.0" />
